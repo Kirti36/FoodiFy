@@ -9,6 +9,10 @@ A dynamic web application that allows users to search for meals and view detaile
 - **Hover Effects:** Stylish hover animations for better user experience.
 - **Responsive Design:** Ensures usability across various screen sizes.
 
+  ![home](ss1.jpg)
+  ![search](ss2.jpg)
+  ![recipe](ss3.jpg)
+
 ## Tech Stack
 - **React.js**: Core framework for building the user interface.
 - **React Router**: For managing dynamic routing in the app.
